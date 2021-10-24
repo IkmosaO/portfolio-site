@@ -1,5 +1,6 @@
-.global {
+.body {
     text-align: center;
+    background-color: rgb(172, 172, 172);
 }
 .title {
     margin: auto;
@@ -52,4 +53,9 @@
 .topimage {
     margin: auto;
     padding: 10px;
+}
+.date {
+    color: bisque;
+    font-size: small;
+    padding: 20px;
 }
